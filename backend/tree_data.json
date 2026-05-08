@@ -1,0 +1,174 @@
+{
+    "nodes": [
+        {
+            "id": "root",
+            "type": "treeNode",
+            "data": {
+                "name": "Root",
+                "role": ""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "a",
+            "type": "treeNode",
+            "data": {
+                "name": "A",
+                "role": ""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "a1",
+            "type": "treeNode",
+            "data": {
+                "name": "A1",
+                "role": ""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "a2",
+            "type": "treeNode",
+            "data": {
+                "name": "A2",
+                "role": ""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "b",
+            "type": "treeNode",
+            "data": {
+                "name": "B",
+                "role": ""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "b1",
+            "type": "treeNode",
+            "data": {
+                "name": "B1",
+                "role": ""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "b2",
+            "type": "treeNode",
+            "data": {
+                "name": "B2",
+                "role": ""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e-root-a",
+            "source": "root",
+            "target": "a",
+            "animated": true,
+            "markerEnd": {
+                "type": "arrowclosed",
+                "color": "#6366f1"
+            },
+            "style": {
+                "stroke": "#6366f1",
+                "strokeWidth": 2
+            }
+        },
+        {
+            "id": "e-a-a1",
+            "source": "a",
+            "target": "a1",
+            "animated": true,
+            "markerEnd": {
+                "type": "arrowclosed",
+                "color": "#6366f1"
+            },
+            "style": {
+                "stroke": "#6366f1",
+                "strokeWidth": 2
+            }
+        },
+        {
+            "id": "e-a-a2",
+            "source": "a",
+            "target": "a2",
+            "animated": true,
+            "markerEnd": {
+                "type": "arrowclosed",
+                "color": "#6366f1"
+            },
+            "style": {
+                "stroke": "#6366f1",
+                "strokeWidth": 2
+            }
+        },
+        {
+            "id": "e-root-b",
+            "source": "root",
+            "target": "b",
+            "animated": true,
+            "markerEnd": {
+                "type": "arrowclosed",
+                "color": "#6366f1"
+            },
+            "style": {
+                "stroke": "#6366f1",
+                "strokeWidth": 2
+            }
+        },
+        {
+            "id": "e-b-b1",
+            "source": "b",
+            "target": "b1",
+            "animated": true,
+            "markerEnd": {
+                "type": "arrowclosed",
+                "color": "#6366f1"
+            },
+            "style": {
+                "stroke": "#6366f1",
+                "strokeWidth": 2
+            }
+        },
+        {
+            "id": "e-b-b2",
+            "source": "b",
+            "target": "b2",
+            "animated": true,
+            "markerEnd": {
+                "type": "arrowclosed",
+                "color": "#6366f1"
+            },
+            "style": {
+                "stroke": "#6366f1",
+                "strokeWidth": 2
+            }
+        }
+    ]
+}
