@@ -45,7 +45,7 @@ The backend will start on `http://localhost:5000`.
 Open a **second** terminal and navigate to the frontend directory:
 
 ```bash
-cd frontend
+cd ../frontend
 npm install
 npm run dev
 ```
