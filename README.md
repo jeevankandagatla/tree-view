@@ -34,7 +34,7 @@ Open a terminal and navigate to the backend directory:
 
 ```bash
 cd backend
-pip install flask flask-cors
+pip install -r requirements.txt
 python app.py
 ```
 
